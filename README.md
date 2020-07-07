@@ -2,7 +2,7 @@
 
 - [페이지 전환 애니메이션](https://kangmin1012.tistory.com/35)
 
-- [Scroll에 대응하는 ViewPager 생성]
+- [wrap_content 가능한 ViewPager](https://kangmin1012.tistory.com/37)
 
 - [TabLayout과 ViewPager 연동](https://kangmin1012.tistory.com/12?category=879935)
 
